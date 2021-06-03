@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lillies new prophecy, or, Sober predictions of a peace between the French and Dutch, and their allies, speedily to be concluded drawn from some astrological considerations of the general assembly of the planets happening in Sagitary, in the month of December, this present year 1675, etc. : together with some probable conjectures of the success of the King of Poland, against the Turks and Tartars : from the several configurations of the heavens in the approaching year, 1676.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48508</idno><idno type="EEBO-CITATION">11733939</idno>
+  <idno type="VID">48443</idno>
+  <idno type="EEBO-PROQUEST">2240889172</idno>
+  
+            <idno type="STC">Wing L2232</idno>
+            <idno type="STC">ESTC R30950</idno>
+            <idno type="OCLC">11733939</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lillies new prophecy, or, Sober predictions of a peace between the French and Dutch, and their allies, speedily to be concluded drawn from some astrological considerations of the general assembly of the planets happening in Sagitary, in the month of December, this present year 1675, etc. : together with some probable conjectures of the success of the King of Poland, against the Turks and Tartars : from the several configurations of the heavens in the approaching year, 1676.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Clarke ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48443:1"/>
+            <pb facs="tcp:48443:1"/>
+            <p>Mr. LILLIES NEVV PROPHECY.</p>
+            <p>
+               <hi>OR;</hi> Sober Predictions of a Peace between the <hi>French</hi> and the <hi>Dutch,</hi> and their Allies, speedily to be concluded.</p>
+            <p>Drawn from some Astrological Considerations of the general Assembly of the Planets happening in <hi>Sagitary,</hi> in the Month of <hi>December,</hi> this present Year, 1675. &amp;c.</p>
+            <p>Together with some probable Conjectures of the Success of the King of <hi>Poland,</hi> against the <hi>Turks</hi> and <hi>Tartars.</hi>
+            </p>
+            <p>From the several Configurations of the Heavens, in the approach<g ref="char:EOLunhyphen"/>ing Year, 1676.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>VVith Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for. <hi>John Clarke,</hi> at the Bible and Harp, in <hi>West-Smith's field,</hi> neer the <hi>Hospital-gate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48443:2"/>
+            <pb n="3" facs="tcp:48443:2"/>
+            <head>
+               <hi>VOX TƲRTƲRIS,</hi> OR, Well-wishing Predictions of an Universal peace, throughout <hi>EƲROPE.</hi>
+            </head>
+            <p>'TIs too sadly Visible and Notorious, how much <hi>Europe</hi> has for many years by-past suffered under the Calamities of a most grievous War: How Nations have Justled with Nations, and Kingdoms with Kingdoms, some striveing for Glory and Conquest, others gasp<g ref="char:EOLhyphen"/>ing for liberty and self-preservation; Whilst to the prejudice (I wish we might not say to the reproach and scandal) of our most holy faith amongst upbraid<g ref="char:EOLhyphen"/>ing infidels, the Swords of Christians have been mutually imbrued and distain'd with the blood of their slaughter'd Brethren; For what Crown or state (almost) is there professing Christianity, which and this day is not involved in the flame, except the land of our Nativity, where by the blessing of God aat care of his Vicegerent, our most gracious Prince, we
+<pb n="4" facs="tcp:48443:3"/> enjoy a calm security of free trade, whilst all our neighbours are in danger of Shipwrack by the violent agitations of these unhappy Tempests, as if indul<g ref="char:EOLhyphen"/>gent Heaven had rescued us from the common com<g ref="char:EOLhyphen"/>bustion, that our deserving Monarch might have the honour of b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing chiefly instrumental in quenching the flames, that he may enjoy the united applauses of Christendom for contributing to their General re<g ref="char:EOLhyphen"/>pose, and reap the Glory of distributing Olive-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranches more desirable than the Laurels of the proudest Conquerors.</p>
+            <p>The true primary or Original cause of all these di<g ref="char:EOLhyphen"/>sturbances must be acknowledged to be that source of all our misery, <hi>SIN;</hi> whereby the Sons of Men provoke their God to visit them with these Judge<g ref="char:EOLhyphen"/>ments; but amongst the natural and celestial prodro<g ref="char:EOLhyphen"/>mi or fore-runners of them, whereby they were pre<g ref="char:EOLhyphen"/>signified to the world, we may justly and principally reckon the three Comets (or Blazing-Stars) 1665. Of whose nature and effects much having been al<g ref="char:EOLhyphen"/>ready written by several Authors we shall say no<g ref="char:EOLhyphen"/>thing further here, nor undertake to point out by or from what particular positions or aspects of the hea<g ref="char:EOLhyphen"/>vens, or Transits of the superior bodies, the most emi<g ref="char:EOLhyphen"/>nent battels by Lande, Engagements at Sea, Skirmish<g ref="char:EOLhyphen"/>es, Seiges, and encounter▪ that have lately been acted on the <hi>Europian</hi> Stage; with their several successes were denoted, and might (possibly) have been descy<g ref="char:EOLhyphen"/>phered by the wary Sons of Art, whose Towering Ge<g ref="char:EOLhyphen"/>nius [if they have but the true Cabalistick Key, and han<g ref="char:EOLunhyphen"/>dle
+<pb n="5" facs="tcp:48443:3"/> it with modesty and discretion] may be admitted into the dark Closet of Futurity [so as to behold Actions in the Womb of their Natural causes] fur<g ref="char:EOLhyphen"/>ther, than some groveling Carpers (whose very souls seem to partake of a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>errestiety, as well as their bodies) can easily imagine.</p>
+            <p>In the Year, 1672. our Famous <hi>Lilly</hi> had these words amongst his Astrological Judgements, in his <hi>Merlinus Anglicus,</hi> (or <hi>Almanack</hi>) Printed for that Year, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Neer unto these times, some kind of Astonishment sur<g ref="char:EOLhyphen"/>prizes an active potentate of Europe, seeing plainly that neither his Actions of War or peace succeeded according to his projected Expectations, being either Circumvented, as he believes, or frustrated by providence: he being not the man ordained to give Laws to his Neighbour Nations.</hi>
+            </p>
+            <p>This was written by that well-skill'd Pen in <hi>August,</hi> 1671. And how far or in what parts of the World the same has been, or may hereafter be full<g ref="char:EOLhyphen"/>filled or verified, we shall not here dispute: but since Peace is the great blessing which so many Nations now want, we shall proceed to make a brief inquiry what grounds the World may have from the present posture of the Heavens to expect and hope for the same.</p>
+            <p>And certainly we have no reason to despair there<g ref="char:EOLhyphen"/>of; for if inferiors be governed by superiors, and the actions of mortals keep time to the secret musique of the Sphears, [we mean celestial influences] It may rationally be concluded, that when those glorious
+<pb n="6" facs="tcp:48443:4"/> guiding lights concur in their positions and beams, men may likewise agree and correspond better in their counsels and actions.</p>
+            <p>Observe your Ephemerides then, and in the latter end of the month of <hi>November</hi> next approaching, and beginning of <hi>December,</hi> you shall find the benevolent Planet <hi>Jupiter</hi> treating all the rest of the Planets; (except churlish <hi>Saturn</hi>) in his own day-house and Triplicity; so eminent a Congress or Assembly of the Celestial <hi>Septemviri,</hi> (like the interviews of mighty Princes) rarely happens, and then not without some Illustrious Effects, and seems in an Astrological sen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to speak to this effect.</p>
+            <p>That the Inhabitants of this part of the world, wearied with the Toyls and Fatigues of Long and bloody Wars, shall at or about that time, or the Moneth before mentioned, generally appear desi<g ref="char:EOLhyphen"/>rous and pant after peace, waveing those Temerari<g ref="char:EOLhyphen"/>ous Councels that first involved them in these per<g ref="char:EOLhyphen"/>nitions, Contentions, and that some Grave and pious Prince or princes in compassion to prevent the further efusion of Christian blood, should undertake the me<g ref="char:EOLhyphen"/>diation of these grand differences, whos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laudable endeavours Heaven seems inclinable to crown with the desired success; though yet as all great actions are not brought to pass without eminent difficulties; especially where there are so many several and con<g ref="char:EOLhyphen"/>trary interests to be satisfied, so here willing <hi>Mercury</hi> just going retrograde may put a sudden damp somtime upon their treaties, as if all would terminate in smoak,
+<pb n="7" facs="tcp:48443:4"/> intimating that the peevish humours of some Con<g ref="char:EOLhyphen"/>ceited Ministers, or persons delegated under a pub<g ref="char:EOLhyphen"/>lique Character may clog and intangle their debates with several Remora's procrastinations and obstruct<g ref="char:EOLhyphen"/>ions by insisting on puntilio's, and preferring Niceties before the common good of Christendome; Yet <hi>Saturn</hi> towards the beginning of the year becoming stationary to direction, and Jupiter courting him with the Amicable Rays of Trine-aspect carries on the blessed work, maugre these rubbs flung in the way by the busie tongued Mercurial Tribe.</p>
+            <p>Nor is this our single sentiment the Judicious Author of (the true) Calendarium Astrologicum or Triggs Almanack for 1676. Ioyns his suffrage and concurs in Iudgement, having this Observation in Ianuary.</p>
+            <p>
+               <hi>Many are the configurations of the Planets at the begin<g ref="char:EOLhyphen"/>ning of this month, which pretend to mortals nothing of any dangerous consequence; but rather a general agreement, &amp;c.</hi>
+            </p>
+            <p>And again in <hi>February.</hi>
+            </p>
+            <p>
+               <hi>If Sextile aspects of the Planets, betoken amity amongst those celestial Bodies, then certainly there will be great har<g ref="char:EOLhyphen"/>mony in the Heavens this month, whence I conjecture they may happily influence the same effects amongst men upon Earth;</hi> —Thus that industruous Artist.</p>
+            <p>'Tis true, we dare not be possitive, for perhaps our zeal and passionate wishes for such a blessed compo<g ref="char:EOLhyphen"/>sure may biass our Iudgement into error, yet we are confident a little time will clear us from the suspition; and that <hi>Janus's</hi> Temple may be shut for some time
+<pb n="8" facs="tcp:48443:5"/> amongst Christians, and open onely against the Arms of <hi>Ottomon,</hi> and other miscreants; and oh how glori<g ref="char:EOLhyphen"/>ous were it to see our reconciled Princes send their u<g ref="char:EOLhyphen"/>nited Troops to the aid of the most illustrious King of <hi>Poland</hi> against his numerous enemies both Turks and Tartars.</p>
+            <p>Seriously the Conjunction of Sol and Saturn in Taurus in April next is of no good signification to that most heroick Prince; yet as his actions and suc<g ref="char:EOLhyphen"/>cesses have hitherto been within a degree of miracu<g ref="char:EOLhyphen"/>lous; so we have reasons in art to conclude they will for the future be no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ess glorious, and that his name shall be as dreadful to the Mahumetans as that of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>canderbeg was heretofore. May the Lord of Hosts be to him a shield and a Buckler, and cover his head in the day of battel; that he may vanquish and put to flight those barbarous Infidels; And may the God of peac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> incline the spirits of all Christian potentates to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove and amity, and particularly continue that blessed Tranquility we now enjoy unto this Nation wherein we live, that we may sit under our own Vines, and sing praises unto him, and none may make us afraid.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48443:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
